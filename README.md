@@ -125,6 +125,8 @@ deeplabcut.analyzeskeleton(path_config, ['/content/drive/MyDrive/Cat_video-Ian-2
 Be sure to view the main DLC github page for any unanswered questions!
 https://github.com/DeepLabCut/DeepLabCut/blob/main/docs/standardDeepLabCut_UserGuide.md
 
+Remember, because this was done in google colab, you may need to transfer files from your google drive to your local desktop if you want to work with them further in other software
+
 ![image](https://user-images.githubusercontent.com/72940641/217901051-7969a7ec-e492-4b4b-ae7a-4ecf7549e63b.png)
 
 
