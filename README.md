@@ -1,5 +1,5 @@
 # DeepLabCut_Jupyter_Colab
-This tutorial will show you how to create a deeplabcut pose estimation of animals using jupyter notebook and google colab. 
+This tutorial will show you how to create a deeplabcut pose estimation of animals using jupyter notebook and google colab using an example project of my cat.
 
 Deeplabcut (DLC) requires a strong GPU with at least 8GB of memory for the actual training portion. If you do not have this, DO NOT ATTEMPT TO RUN TRAINING CODE ON YOUR LOCAL COMPUTER --> it will run very slow and your computer will be unhappy. 
 
