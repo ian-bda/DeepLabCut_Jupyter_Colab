@@ -123,7 +123,9 @@ deeplabcut.analyzeskeleton(path_config, ['/content/drive/MyDrive/Cat_video-Ian-2
 
 ## Now you are done!
 Be sure to view the main DLC github page for any unanswered questions!
+https://github.com/DeepLabCut/DeepLabCut/blob/main/docs/standardDeepLabCut_UserGuide.md
 
+![image](https://user-images.githubusercontent.com/72940641/217901051-7969a7ec-e492-4b4b-ae7a-4ecf7549e63b.png)
 
 
 
