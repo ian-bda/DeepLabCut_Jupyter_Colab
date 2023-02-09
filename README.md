@@ -1,6 +1,8 @@
 # DeepLabCut_Jupyter_Colab
 This tutorial will show you how to create a deeplabcut pose estimation of animals using jupyter notebook and google colab using an example project of my cat.
 
+https://user-images.githubusercontent.com/72940641/217903980-958686d4-397e-401d-9622-9638aa9893e3.mp4
+
 Deeplabcut (DLC) requires a strong GPU with at least 8GB of memory for the actual training portion. If you do not have this, DO NOT ATTEMPT TO RUN TRAINING CODE ON YOUR LOCAL COMPUTER --> it will run very slow and your computer will be unhappy. 
 
 Instead, you can create the project and extract the data frames using Jupyter, then train and analyze videos using google collab 
@@ -115,6 +117,8 @@ Create labeled video:
 ```
 deeplabcut.create_labeled_video(path_config, ['/content/drive/MyDrive/Cat_video-Ian-2023-02-02/videos'], save_frames = False, draw_skeleton = True)
 ```
+
+https://user-images.githubusercontent.com/72940641/217904309-1b317ba8-5f95-4a57-a00e-e8b54bc84b54.mp4
 
 Create csv files that analyze the angles and pixel lengths between each skeleton point:
 ```
