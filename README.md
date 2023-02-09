@@ -128,7 +128,7 @@ Create csv files that analyze the angles and pixel lengths between each skeleton
 ```
 deeplabcut.analyzeskeleton(path_config, ['/content/drive/MyDrive/Cat_video-Ian-2023-02-02/videos'], videotype='.mp4', shuffle=1, trainingsetindex=0, save_as_csv=True, destfolder=None)
 ```
-CSV file shown in Cat_VideoDLC_resnet50_Cat_videoFeb2shuffle1_50000_skeleton.csv
+The labeled videos and CSV files are located in Cat_VideoDLC
 
 ## Now you are done!
 Be sure to view the main DLC github page for any unanswered questions!
