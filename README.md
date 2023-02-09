@@ -39,10 +39,16 @@ After creating the project folders, open the DLC GUI to edit your config file to
 ![image](https://user-images.githubusercontent.com/72940641/217890158-df4e4f82-cfcc-4b7b-8c9c-c57b3e5a743f.png)
 
 - Open the DLC GUI and click load project
+![Screenshot (10)](https://user-images.githubusercontent.com/72940641/217906511-f85f55af-348f-4127-9d1c-c7a3ba168da7.png)
+
 - Navigate to your project config file and open
 - Click label frames 
+![Screenshot (8)](https://user-images.githubusercontent.com/72940641/217906545-448569cd-be39-494f-8027-6d31d919ad96.png)
+
 - Open folder with extracted frames 
 - Use the select points tool (arrow figure) and the keypoint selection (bottom right) to click and label body parts.
+![Screenshot (9)](https://user-images.githubusercontent.com/72940641/217906567-f3dc539e-9dda-47da-959f-6bdd3502bd8d.png)
+
 - Do this for each frame and save screenshots in new, labeled frames folder
 
 
