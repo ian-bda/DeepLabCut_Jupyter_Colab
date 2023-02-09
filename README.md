@@ -118,8 +118,6 @@ Create labeled video:
 deeplabcut.create_labeled_video(path_config, ['/content/drive/MyDrive/Cat_video-Ian-2023-02-02/videos'], save_frames = False, draw_skeleton = True)
 ```
 
-https://user-images.githubusercontent.com/72940641/217904309-1b317ba8-5f95-4a57-a00e-e8b54bc84b54.mp4
-
 Create csv files that analyze the angles and pixel lengths between each skeleton point:
 ```
 deeplabcut.analyzeskeleton(path_config, ['/content/drive/MyDrive/Cat_video-Ian-2023-02-02/videos'], videotype='.mp4', shuffle=1, trainingsetindex=0, save_as_csv=True, destfolder=None)
