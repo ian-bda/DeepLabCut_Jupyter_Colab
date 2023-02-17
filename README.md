@@ -50,7 +50,7 @@ After creating the project folders, open the DLC GUI to edit your config file to
 ![Screenshot (9)](https://user-images.githubusercontent.com/72940641/217906567-f3dc539e-9dda-47da-959f-6bdd3502bd8d.png)
 
 - Do this for each frame and save screenshots in new, labeled frames folder
-
+- Do not save using "save all layers" for some reason this crashes the GUI
 
 ## Training DLC using Google Colab
 
